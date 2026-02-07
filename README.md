@@ -45,7 +45,7 @@
 ## 👥 The Team
 
 ### Kadir Lofca - Lead Developer
-[Portfolio](#)  
+[Portfolio](https://kadirlofca.com)
 - Coordinated and assisted each team member  
 - Worked on:  
   - Player & AI movement  
@@ -56,24 +56,24 @@
   - Menu backend  
 
 ### Oyku Erdenlig - Concept Artist, Animator
-[ArtStation Portfolio](#)  
+[ArtStation Portfolio](https://www.artstation.com/kaizenmushin)  
 - Made the cat model, rig, and animations  
 - Hand-drawn textures for models and UI  
 - Concept art for environment, tuna can, and gameplay  
 
 ### Anya - 3D Artist
-[ArtStation Portfolio](#)  
+[ArtStation Portfolio](https://www.artstation.com/anyavonti)  
 - Modeled props & environment  
 - Designed & created levels  
 - Made textures  
 
 ### Tommy - Audio
-[Itch Page](#)  
+[Itch Page](https://failgod.itch.io/)  
 - Created music and sound design for entire project  
 - Procedural audio with parameters using Fmod  
 
 ### Selifka - Developer
-[Itch Page](#)  
+[Itch Page](https://itch.io/profile/selifka)  
 - Human AI perception  
 - Save game state  
 - Level manager - switching between levels  
